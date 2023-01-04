@@ -1,6 +1,6 @@
 <?php
 $token = '5922874997:AAHOj42c_Ud3SKR4ojuodcA657dwMHa7Hgo';
-$img = "BOT_IMG";
+$img = "https://ibb.co/mJMtv1v";
 
 $input = file_get_contents('php://input');
 $update = json_decode($input);
